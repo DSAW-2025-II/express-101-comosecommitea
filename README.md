@@ -3,7 +3,7 @@
 
 Nombre: Samuel Fernando Escobar Polanco
 Id: 0000354769
-Link:
+Link: https://dsaw-2025-ii.github.io/express-101-comosecommitea/
 
 Este proyecto consiste en un reto de desarrollo backend en el que se debe crear un endpoint llamado `user-info` utilizando el framework Express.js. El objetivo principal es que, al hacer una solicitud GET a este endpoint, se retorne un objeto JSON con la información de uno o dos estudiantes, dependiendo de si el equipo está compuesto por una o dos personas.
 
